@@ -10,7 +10,7 @@ This repository contain the necessary code to get an overview of the work and pr
 Files with code for extraction of data can not be run, as it is used internally at MET.
 Due to the final size of the dataset, it was not possible to upload the file to GIT. The dataset can be accessed and
 downloaded via this link:
-https://teams.microsoft.com/l/message/19:9315df58-d9f9-4ca7-9be0-a0fb83407ae2_f6e70d41-f13c-4964-a71d-7b5681dae066@unq.gbl.spaces/1715782203185?context=%7B%22contextType%22%3A%22chat%22%7D](https://zenodo.org/records/11198572?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjZhNDNmYThkLTNlYjEtNDI2MC1iYzZiLTEyNWNiMDM3MTgzZiIsImRhdGEiOnt9LCJyYW5kb20iOiI5MTQ1ODBiYmYwZjMyZDE0OWJkZWJjZTEwZDAwMDNlNCJ9.NAtiK_yL3r3Vklb0_gtAkIrxy6kT7Lz0jMggah8KvGiYaTK1FFj8pY4cb14feFN_0oNpF0_4-ARZ0PSxBWHzKg)](https://zenodo.org/records/11198572?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjZhNDNmYThkLTNlYjEtNDI2MC1iYzZiLTEyNWNiMDM3MTgzZiIsImRhdGEiOnt9LCJyYW5kb20iOiI5MTQ1ODBiYmYwZjMyZDE0OWJkZWJjZTEwZDAwMDNlNCJ9.NAtiK_yL3r3Vklb0_gtAkIrxy6kT7Lz0jMggah8KvGiYaTK1FFj8pY4cb14feFN_0oNpF0_4-ARZ0PSxBWHzKg
+https://zenodo.org/records/11198572?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjZhNDNmYThkLTNlYjEtNDI2MC1iYzZiLTEyNWNiMDM3MTgzZiIsImRhdGEiOnt9LCJyYW5kb20iOiI5MTQ1ODBiYmYwZjMyZDE0OWJkZWJjZTEwZDAwMDNlNCJ9.NAtiK_yL3r3Vklb0_gtAkIrxy6kT7Lz0jMggah8KvGiYaTK1FFj8pY4cb14feFN_0oNpF0_4-ARZ0PSxBWHzKg
 
 The results in the thesis can be reproduced with this dataset and the models, remember to change the filepaths for 
 importing the data in the notebook you want to run. Most of these notebooks are saved with a previous
